@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405174455556",
+    "firebase_url": "https://lojaflutter-cccbb.firebaseio.com",
+    "project_id": "lojaflutter-cccbb",
+    "storage_bucket": "lojaflutter-cccbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405174455556:android:0f6e787e770f83829cd451",
+        "android_client_info": {
+          "package_name": "br.com.zeozino.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405174455556-ee24bl2npp2ihdalulhiiugre70vh4hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9LhW8im9yJwZ-rejuAJUsAyNQbj3wsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405174455556-ee24bl2npp2ihdalulhiiugre70vh4hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
